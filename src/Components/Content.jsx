@@ -5,6 +5,7 @@ import './Content.css'
 function Content() {
   return (
     <>
+    
     <div className="box">
    <h1 className="h4 ">
      Chharjarsi 
@@ -13,6 +14,12 @@ function Content() {
   <p className="p">Mostly cloudy 28&deg;/ 35&deg;</p>
   <p className="p1">Air quality: 65-Satisficatory</p>
   </div>
+
+
+
+
+
+  
   </>
   )
 }
