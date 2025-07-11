@@ -1,0 +1,8 @@
+.weather{
+    justify-content:space-between;
+    display:flex;
+}
+.degree{
+    justify-content:space-between;
+    display:flex;
+}
